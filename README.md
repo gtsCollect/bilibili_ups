@@ -1,5 +1,4 @@
-# bilibili_ups
-## b站上的gts up主
+# gts创作者收录
 * 孙晓美
 * 卢雨晨gts
 * ZZEidou
